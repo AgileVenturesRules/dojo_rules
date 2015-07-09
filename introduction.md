@@ -1,1 +1,6 @@
-I love Ruby and JavaScript!
+*Ruby
+*Python
+*Javascript
+*HTML
+*CSS
+*GIT
